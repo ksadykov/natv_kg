@@ -151,7 +151,7 @@ class _AnnouncementScreenState extends State<AnnouncementScreen> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      const Text(
+                      Text(
                         'ВВЕДИТЕ ТЕКСТ ОБЪЯВЛЕНИЯ',
                         style: AppFonts.w100s14,
                       ),
